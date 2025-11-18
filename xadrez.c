@@ -167,7 +167,7 @@ int main() {
     printf(" Bem-vindo ao Simulador de Movimentos de Xadrez! ♟️\n");
     printf("===========================================\n");
 
-    // Mostra o tabuleiro com a peça posicionada
+    // Mostra o tabuleiro com a peça 
     mostrarTabuleiro(x, y);
 
     // Chama os módulos de cada peça
