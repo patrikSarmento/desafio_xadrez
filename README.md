@@ -1,1 +1,1 @@
-projeto da faculdade desafio xdrez
+projeto da faculdade desafio xadrez
